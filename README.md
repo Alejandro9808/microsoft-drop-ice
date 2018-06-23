@@ -36,6 +36,7 @@ Signed,
 1.  Adrien Antoine [@adriantoine](https://github.com/adriantoine)
 1.  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
 1.  Akshat Sinha [@tribalmolecule](https://github.com/tribalmolecule)
+1.  Alejandro9808 [@Alejandro9808](https://github.com/Alejandro9808)
 1.  Alex [@alexrdz](https://github.com/alexrdz)
 1.  Alex Rapley [@arapl3y](https://github.com/arapl3y)
 1.  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
